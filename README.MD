@@ -16,6 +16,6 @@ Il seguito della tesi è così organizzato:
 - Nel secondo capitolo vengono illustrati tutti gli strumenti che sono stati utilizzati per creare l'infografica. Vengono innanzitutto illustrati gli strumenti da cui più dipende il lato grafico, passando poi al vero e proprio Framework su cui è basato tutto il progetto, React.js. Infine vengono descritte alcune librerie utilizzate in aggiunta.
 - Nel terzo capitolo viene descritto il vero e proprio sviluppo dell'infografica. Dopo aver fatto alcune considerazioni durante la fase di analisi si passa alla strutturazione del progetto e delle pagine che lo compongono. Successivamente vegonono aggiunti i componenti logici e di personalizzazione dell'interfaccia.
 
-**Autore**: Angelo Filaseta
-**Relatore**: Dott.ssa Prandi Catia
-**Correlatore**: Dott.ssa Ceccarini Chiara
+**Autore**: Angelo Filaseta  
+**Relatore**: Dott.ssa Prandi Catia  
+**Correlatore**: Dott.ssa Ceccarini Chiara  
