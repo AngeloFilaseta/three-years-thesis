@@ -1,0 +1,24 @@
+\documentclass[12pt, a4paper, openright, twoside]{report}
+\input{imports.tex}
+\input{layout.tex}
+\addbibresource{back-matter/bibliography.bib}
+
+\begin{document}
+	
+	\input{front-matter/title-page.tex}
+	\input{front-matter/dedication.tex}
+    \input{front-matter/introduction.tex}
+	
+	\tableofcontents                        
+	
+	\listoffigures
+    
+	\input{main-matter/chapter-01.tex}
+	\input{main-matter/chapter-02.tex}
+	\input{main-matter/chapter-03.tex}
+
+    \input{back-matter/conclusion.tex}
+    \printbibliography
+    \input{back-matter/thanks.tex}
+
+\end{document}
